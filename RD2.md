@@ -1,15 +1,14 @@
-ENCRYPTED:
-# Ersyrpgvba Qbphzrag
+# Reflection Document
 
-* Qevir Shyy Anzr  : Naqerj Yrvzonpu
-* Cnegare Shyy Anzr: Qbabina Enlzbaq
-* Fghqrag VQ: 1551208
+* Drive Full Name  : Andrew Leimbach
+* Partner Full Name: Donovan Raymond
+* Student ID: 1551208
 
 
-Va guvf yno zl cnegare naq V jrer fhccbfrq gb cenpgvpr jvgu svyrf, perngvat shapgvbaf, grfgvat pbqr, reebe purpxvat, naq hgvyvmvat gur znal bgure nfcrpgf bs Clguba jr'ir yrnearq fb sne.
+In this lab my partner and I were supposed to practice with files, creating functions, testing code, error checking, and utilizing the many other aspects of Python we've learned so far.
 
-Hfvat jung gur pynff unf yrnearq sebz cerivbhf yrpgherf, Qbabina naq V sbyybjrq gur qrfvta cebprff/fgrcf va svefg haqrefgnaqvat gur ernqzr va vgf shyy, qrirybcvat na nytbevguz, crre erivrjvat gubfr, grfg pnfrf, naq gura qrirybcvat bhe pbqr. Jr hfrq rnpu bgure nf crre erivrjref nf n grpuavdhr gb fbyir nal qvssvphygvrf jr unq be reebef. Xrl pbaprcgf rkcyberq jrer jevgvat shapgvbaf, yvfgf, svyrf, ybbcf, Obbyrnaf, nf jryy nf reebe purpxvat.
+Using what the class has learned from previous lectures, Donovan and I followed the design process/steps in first understanding the readme in its full, developing an algorithm, peer reviewing those, test cases, and then developing our code. We used each other as peer reviewers as a technique to solve any difficulties we had or errors. Key concepts explored were writing functions, lists, files, loops, Booleans, as well as error checking.
 
-Bhe tebhcf erfhygf qvq zngpu jung jr rkcrpgrq. Orpnhfr jr qrfvtarq bhe cebtenz guebhtu bhe nytbevguz, vg jnf rnfvre gb qb bhe pbqr naq trg gur erfhygf jr rkcrpgrq. Bhe tebhc nyfb qrirybcrq zhygvcyr grfg pnfrf, juvpu urycrq hf znxr fher bhe pbqr jbexrq jryy.
+Our groups results did match what we expected. Because we designed our program through our algorithm, it was easier to do our code and get the results we expected. Our group also developed multiple test cases, which helped us make sure our code worked well.
 
-Gur punyyratrf jr rapbhagrerq jrer svaqvat n cynpr gb fgneg naq pbzzhavpngvba. Jr unq gb znxr fher jr pbzzhavpngrq gbtrgure. V guvax zl xrl gnxrnjnlf sebz guvf yno jnf hfvat svyrf naq npprffvat gurz naq rqvgvat gurz, perngvat shapgvbaf, vapbecbengvat yvfgf naq reebe purpxvat, naq ubj gurl pna uryc gnxr lbhe pbqr gb gur arkg yriry naq uryc bhg n ybg. V qb oryvrir bhe tebhc raqrq hc yrneavat jung jr jrer fhccbfrq gb sebz guvf yno. Vg jnf avpr jbexvat jvgu Qbabina gung jnl jr pbhyq fcyvg gur jbexybnq naq tvir rnpu bgure vqrnf.
+The challenges we encountered were finding a place to start and communication. We had to make sure we communicated together. I think my key takeaways from this lab was using files and accessing them and editing them, creating functions, incorporating lists and error checking, and how they can help take your code to the next level and help out a lot. I do believe our group ended up learning what we were supposed to from this lab. It was nice working with Donovan that way we could split the workload and give each other ideas.
